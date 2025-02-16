@@ -15,7 +15,7 @@
 - 支持CDN套用
 - 支持Fallback分流设置
 
-### Youtube播放地址：https://youtu.be/Hg3A_cUYNaI
+### Youtube播放地址：
 
  ## 一、准备工作
 
@@ -54,6 +54,7 @@ macOS版下载地址：http://www.hostbuf.com/downloads/finalshell_install.pkg  
 注意事项：如果你点了 X-ui 面板设置，第一次进入的时候会自动帮你更改网址路径，点击确认，会自动跳转到新网址，下次再进入面板就需要通过这个新网址才能进入，
 建议将其保存为书签，防止忘记了。
 
+走到这一步，你已经拥有了一台能够科学上网的VPS
 --------------------------------
 
 ## 三、搭建 Vision 节点申请证书
