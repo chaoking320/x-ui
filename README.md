@@ -21,7 +21,7 @@
 
   ### 1、一台境外VPS主流系统，例如：Debian/Ubuntu/CentOS
 
-
+具体申请流程：https://mp.weixin.qq.com/s/zG9WQHVo4A45DF-a_IyBWg
 
 ### 2、下载并安装FinalShell SSH工具
 
